@@ -1,9 +1,9 @@
 # Smart-Driver-Safety-System
 
 ## AI Driven Alcohol Detection and Vehicle Safety System
----
 
-The AI Driven Alcohol Detection and Vehicle Safety System is a smart driver monitoring system designed to improve road safety by detecting alcohol consumption, driver drowsiness, and abnormal health conditions.The system uses sensors, computer vision, and microcontrollers to monitor the driver's condition in real-time and take preventive safety actions such as speed control or vehicle shutdown. This project aims to reduce road accidents caused by drunk driving, fatigue, or medical emergencies.
+
+The AI-Driven Alcohol Detection and Vehicle Safety System is a smart driver monitoring solution that detects alcohol consumption, driver drowsiness, and abnormal health conditions in real time. By integrating sensors, computer vision, and microcontrollers, the system can automatically control vehicle speed or shut down the vehicle to prevent accidents and improve road safety.
 ----
 ## Features
 
